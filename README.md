@@ -1,8 +1,3 @@
-# React + Vite
+# Hoo Bank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![hbank](https://github.com/isayanpal/hbank_modern_app/assets/102523492/83376bc9-49bc-4c44-8667-a353d5fb86fd)
